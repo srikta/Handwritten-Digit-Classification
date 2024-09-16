@@ -1,0 +1,2 @@
+
+This repository contains a neural network model for multi-class classification, implemented in Python using a Jupyter Notebook. The model features an input layer, hidden layers with Dense and ReLU activations, and a softmax-activated output layer. It uses categorical crossentropy as the loss function, the Adam optimizer, and accuracy as the evaluation metric. The notebook includes data preprocessing steps, such as normalization and train-test split, and provides visualizations like a confusion matrix to evaluate model performance.
